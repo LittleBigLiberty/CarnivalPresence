@@ -2,7 +2,7 @@
 
 A tiny background app providing Discord Rich Presence for the LittleBigPlanet games on [Carnivalia](https://github.com/LittleBigLiberty/Carnivalia)-based servers.
 
-[![Discord](https://img.shields.io/discord/1049223665243389953?label=Discord)](https://discord.gg/xN5yKdxmWG)
+[![Discord](https://img.shields.io/discord/1049223665243389953?label=Discord)](https://discord.gg/aaCM32MWyst)
 
 ## Compatibility
 
@@ -37,7 +37,7 @@ To update, you can simply repeat this process, overwriting the previous file.
 
 ## It's on fire! What do I do?
 
-CarnivalPresence isn't perfect, so it's not exactly uncommon to run into bugs. If you'd like, you can [create an issue](https://github.com/LittleBigLiberty/CarnivalPresence/issues/new) here on GitHub or join our [Discord](https://discord.gg/xN5yKdxmWG) for support.
+CarnivalPresence isn't perfect, so it's not exactly uncommon to run into bugs. If you'd like, you can [create an issue](https://github.com/LittleBigLiberty/CarnivalPresence/issues/new) here on GitHub or join our [Discord](https://discord.gg/aaC32MWyst) for support.
 
 Wherever you choose to post, be sure to include details about how to trigger the bug, text logs (not screenshots!), your environment, the bug's symptoms, and anything else you might find relevant to the bug.
 
